@@ -6,10 +6,10 @@
 
 ###
 <br clear ="both">
-<h4>Linguagens que Tenho Afinidade</h4>
+<h4>Linguagens</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,c,js,java,py"/>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,c,js,java,py&perline=3"/>
   </a>
 </p>
 
