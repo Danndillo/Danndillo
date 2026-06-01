@@ -5,7 +5,7 @@
 - ⚽ Apaixonado pelo Clube de Regatas do Flamengo!<br>
 
 ###
-[![Danndillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danndillo)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=Danndillo&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 <br clear ="both">
 
