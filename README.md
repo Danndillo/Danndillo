@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Oi 👋! Meu nome é Danillo, sou Bacharelando em Ciência da Computação</h2>
+<p>Bacharelando em Ciência da Computação pela Universidade Federal do Espírito Santo<br>Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo<br>Apaixonado pelo Clube de Regatas do Flamengo!</p>
 
 ###
 
