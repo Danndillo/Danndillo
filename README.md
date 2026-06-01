@@ -1,5 +1,5 @@
 <br clear="both">
-
+<h4>Oi, meu nome é Danillo e sou: </h4>
 - 💻 Bacharelando em Ciência da Computação pela Universidade Federal do Espírito Santo
 - 💾 Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo
 - ⚽ Apaixonado pelo Clube de Regatas do Flamengo!
@@ -7,6 +7,10 @@
 ###
 
 <br clear="both">
+
+(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<br clear ="both">
 
 <p align="center">
   <a href="https://skillicons.dev">
