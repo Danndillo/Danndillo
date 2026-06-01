@@ -5,18 +5,16 @@
 - ⚽ Apaixonado pelo Clube de Regatas do Flamengo!<br>
 
 ###
-[![Stats](https://github-readme-stats.vercel.app/api?username=Danndillo&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://streak-stats.demolab.com?user=Danndillo&theme=dark&hide_border=true)
-
 <br clear ="both">
-
+<h4>Linguagens que Tenho Afinidade</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,c,js,java,py&perline=3"/>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,c,js,java,py"/>
   </a>
 </p>
 
 ###
-
+<h4>Links</h4>
 <div align="center">
   <a href="https://www.instagram.com/danllo.css" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
