@@ -5,7 +5,7 @@
 - ⚽ Apaixonado pelo Clube de Regatas do Flamengo!<br>
 
 ###
-![Stats](https://github-readme-stats.vercel.app/api?username=Danndillo&theme=dark&show_icons=true&hide_border=true&count_private=true)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Danndillo&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://streak-stats.demolab.com?user=Danndillo&theme=dark&hide_border=true)
 
 <br clear ="both">
 
