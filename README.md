@@ -1,14 +1,11 @@
 <br clear="both">
 <h4>Oi, meu nome é Danillo e sou: </h4>
-- 💻 Bacharelando em Ciência da Computação pela Universidade Federal do Espírito Santo
-- 💾 Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo
-- ⚽ Apaixonado pelo Clube de Regatas do Flamengo!
+- 💻 Bacharelando em Ciência da Computação pela Universidade Federal do Espírito Santo <br>
+- 💾 Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo<br>
+- ⚽ Apaixonado pelo Clube de Regatas do Flamengo!<br>
 
 ###
-
-<br clear="both">
-
-(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Danndillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danndillo)](https://github.com/anuraghazra/github-readme-stats)
 
 <br clear ="both">
 
