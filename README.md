@@ -33,5 +33,5 @@
   </a>
 </div>
 
-<h4>Recomendação</h4>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1EFOYsAkyfwLkS5OPfobak?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<h4>Spotify</h4>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=4fct7j41j5k6itdag0qprxrzp&unique={true|1|on|yes})
