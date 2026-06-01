@@ -32,6 +32,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
 </div>
+###
 
 <h4>Spotify</h4>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=4fct7j41j5k6itdag0qprxrzp&unique={true|1|on|yes})
